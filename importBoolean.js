@@ -1,0 +1,1 @@
+const isTrue = require("./exportBoolean");
